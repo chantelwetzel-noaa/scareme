@@ -1,5 +1,5 @@
 Package: scareme
-Title: List of horror movies
+Title: List of Horror Movies
 Version: 0.0.1
 Authors@R: c(
     person(
@@ -10,16 +10,17 @@ Authors@R: c(
       comment = c(ORCID = "0000-0002-7573-8240")
     )
     )
-Description: Package with horror movies
+Description: What the package does (one paragraph).
 License: GPL (>= 3) + file LICENSE
-Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2
 Imports: 
-  dpyr,
+  dplyr,
   ggplot2,
+  here,
   readr,
   usethis
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
 Depends: 
-    R (>= 4.2)
+    R (>= 3.5)
 LazyData: true
