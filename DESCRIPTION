@@ -8,6 +8,12 @@ Authors@R: c(
       role = c("aut", "cre"),
       email = "chantel.wetzel@noaa.gov",
       comment = c(ORCID = "0000-0002-7573-8240")
+    ),
+    person(
+      given = c("Jason", "M."),
+      family = "Cope",
+      role = c("aut"),
+      email = "jason.cope@noaa.gov"
     )
     )
 Description: What the package does (one paragraph).
