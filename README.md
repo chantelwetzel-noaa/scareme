@@ -25,7 +25,8 @@ The data object `movies` has the following columns:
 * Type: movie genre (options: Aliens, Body Horror, Comedy, Found Footage, Folk Horror,
 Other Monsters, Paranormal, Posession, Serial Killer, Supernatural, Vampires,
 Werewolf, and Zombie);
-* Group: course grouping of movies (Classic, Asian, 1980s, 1990s, and modern);
+* Group: course grouping of movies (Classic, 1980s, 1990s, and modern);
+* Region: region (e.g., asian);
 * Collection: the movie collection name if there are multiple movies within a 
 horror franchise;
 * Top Films: TRUE/FALSE where TRUE identifies the top horror movies as identified
