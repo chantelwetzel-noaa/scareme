@@ -24,9 +24,9 @@ Blair Witch,Found Footage,1990s,,,TRUE,1999,,5,5
 Bone Tomahawk,Slasher,Modern,,,FALSE,2015,,4,
 Bones and All,Romantic,Modern,,,FALSE,2022,,,
 Border,Folk Horror,Modern,,,FALSE,2018,,2,
-Braindead,Comedy,1990s,,,TRUE,1992,,5,5
+Braindead,Comedy,1990s,,,TRUE,1992,,,5
 Bran Stoker's Dracula,Vampires,1990s,,,TRUE,1992,,5,5
-Bring Her Back,Paranormal,Modern,,,FALSE,2025,,,
+Bring Her Back,Paranormal,Modern,,,FALSE,2025,,4,
 Cabin In The Woods,Other Monsters,Modern,,,TRUE,2011,,5,5
 Candyman,Folk Horror,1990s,,,TRUE,1992,,5,5
 Chime,Psychological,Modern,Asian,,FALSE,2022,,,3
@@ -219,7 +219,7 @@ The Witch,Folk Horror,Modern,,,TRUE,2015,,5,5
 The Wolfhouse,,,,,FALSE,,,,
 Thirst,,,,,FALSE,,,2,
 Three Extremes,,,,,FALSE,,,,
-Tigers are Not Afraid,Paranormal,Modern,,,FALSE,2017,,5,
+Tigers are Not Afraid,Paranormal,Modern,Mexican,,FALSE,2017,,5,
 Titane,,,,,FALSE,,,,
 Together,,,,,FALSE,,,,
 Train to Busan,Zombie,Modern,,,TRUE,2016,,5,5
@@ -242,3 +242,17 @@ You'll Never Find Me,,,,,FALSE,,,,
 You're Next,Slasher,Modern,,,FALSE,2011,,4,
 Zodiac,Serial Killer,Modern,,,TRUE,2007,,5,5
 Zombieland,Comedy,Modern,,,TRUE,2009,,5,5
+The Feast,Folk Horror,Modern,European,,,2021,,3,
+Hokum,Paranormal,Modern,North American,,,2026,,4,
+Obsession,Body Horror,Modern,North American,,,2026,,5,
+Starve Acre,Folk Horror,Modern,,,,2023,,3,
+The Wicker Man,Folk Horror,Modern,,,,1973,,4,
+The Ritual,Folk Horror,Modern,,,,2017,,3,
+Mandy,Cosmic Horror,Modern,North American,,,2018,,3,
+Keeper,,Modern,North American,,,2025,,,
+Saloum,Paranormal,Modern,African,,,2021,,3,
+The Medium,Paranormal,Modern,Asian,,,2021,,3,
+She Will,Folk Horror,Modern,European,,,2021,,3,
+The Damned,Folk Horror,Modern,European,,,2024,,3,
+Exhuma,Folk Horror,Modern,Asian,,,2024,,4,
+In the Earth,Folk Horror,Modern,European,,,2021,,3,
