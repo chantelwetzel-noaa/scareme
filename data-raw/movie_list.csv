@@ -3,7 +3,7 @@ Title,Type,Group,Region,Collection,Top Films,Year,Rating,Chantel Rating,Jason Ra
 28 Weeks Later,Zombie,Modern,,29 Days Later,FALSE,2007,,3,
 28 Years Later,Zombie,Modern,,30 Days Later,FALSE,2025,,4,
 A Dark Song,Folk Horror,Modern,,,FALSE,2016,,4,
-A Girl Walks Home at Night,Zombie,Modern,,,FALSE,2014,,3,
+A Girl Walks Home at Night,Vampires,Modern,,,FALSE,2014,,3,
 A Nightmare on Elm Street 3: Dream Warriors,Slasher,1980s,,,TRUE,1987,,5,5
 A Quiet Place,Aliens,Modern,,,TRUE,2018,,5,5
 Alien,Aliens,Classic,,,TRUE,1979,,5,5
@@ -236,9 +236,9 @@ Weapons,Posession,Modern,,,FALSE,2025,,4,
 What We Do In The Shadows,Comedy,Modern,,,TRUE,2014,,5,5
 What You Wish For,,,,,FALSE,,,,
 When Evil Lurks,Folk Horror,Modern,,,TRUE,2023,,5,5
-You Are Not My Mother,,,,,FALSE,,,,
+You Are Not My Mother,Folk Horror,Modern,Irish,,FALSE,2021,,3,
 You Won't Be Alone,Folk Horror,Modern,,,FALSE,2022,,4,
-You'll Never Find Me,,,,,FALSE,,,,
+You'll Never Find Me,Psychological,Modern,Asian,,FALSE,2023,,,
 You're Next,Slasher,Modern,,,FALSE,2011,,4,
 Zodiac,Serial Killer,Modern,,,TRUE,2007,,5,5
 Zombieland,Comedy,Modern,,,TRUE,2009,,5,5
@@ -249,10 +249,12 @@ Starve Acre,Folk Horror,Modern,,,,2023,,3,
 The Wicker Man,Folk Horror,Modern,,,,1973,,4,
 The Ritual,Folk Horror,Modern,,,,2017,,3,
 Mandy,Cosmic Horror,Modern,North American,,,2018,,3,
-Keeper,,Modern,North American,,,2025,,,
+Keeper,Folk Horror,Modern,North American,,,2025,,,
 Saloum,Paranormal,Modern,African,,,2021,,3,
-The Medium,Paranormal,Modern,Asian,,,2021,,3,
-She Will,Folk Horror,Modern,European,,,2021,,3,
+The Medium,Paranormal,Modern,Asian,,,2021,,2,
+She Will,Folk Horror,Modern,European,,,2021,,2,
 The Damned,Folk Horror,Modern,European,,,2024,,3,
 Exhuma,Folk Horror,Modern,Asian,,,2024,,4,
 In the Earth,Folk Horror,Modern,European,,,2021,,3,
+Marama,Supernatural,Modern,Asian,,,2026,,3,
+Frewaka,Folk Horror,Modern,Irish,,,2024,,4,
