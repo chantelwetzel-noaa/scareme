@@ -1,7 +1,8 @@
 Title,Type,Group,Region,Collection,Top Films,Year,Rating,Chantel Rating,Jason Rating
-28 Days Later,Zombie,Modern,,28 Days Later,TRUE,2002,,5,5
-28 Weeks Later,Zombie,Modern,,29 Days Later,FALSE,2007,,3,
-28 Years Later,Zombie,Modern,,30 Days Later,FALSE,2025,,4,
+28 Days Later,Zombie,Modern,UK,28 Days Later,TRUE,2002,,5,5
+28 Weeks Later,Zombie,Modern,UK,29 Days Later,FALSE,2007,,3,
+28 Years Later,Zombie,Modern,UK,30 Days Later,FALSE,2025,,4,4
+28 Years Later: The Bone Temple,Zombie,Modern,UK,,,2026,,,4
 A Dark Song,Folk Horror,Modern,,,FALSE,2016,,4,
 A Girl Walks Home at Night,Vampires,Modern,,,FALSE,2014,,3,
 A Nightmare on Elm Street 3: Dream Warriors,Slasher,1980s,,,TRUE,1987,,5,5
@@ -28,16 +29,16 @@ Braindead,Comedy,1990s,,,TRUE,1992,,,5
 Bran Stoker's Dracula,Vampires,1990s,,,TRUE,1992,,5,5
 Bring Her Back,Paranormal,Modern,,,FALSE,2025,,4,
 Cabin In The Woods,Other Monsters,Modern,,,TRUE,2011,,5,5
-Candyman,Folk Horror,1990s,,,TRUE,1992,,5,5
+Candyman,Folk Horror,1990s,,,TRUE,1992,,5,4
 Chime,Psychological,Modern,Asian,,FALSE,2022,,,3
-Christine,Paranormal,1980s,,,TRUE,1983,,5,5
+Christine,Paranormal,1980s,,,TRUE,1983,,5,4
 Climax,Psychological,Modern,,,FALSE,2018,,,
 Cloverfield,Aliens,Modern,,,FALSE,2008,,4,
 Coldfish,Slasher,Modern,Asian,,FALSE,2010,,,
 Color Out of Space,Body Horror,Modern,,,FALSE,2019,,4,
 Creep,Found Footage,Modern,,,FALSE,2014,,,
 Creepshow,Body Horror,1980s,,,TRUE,1982,,5,5
-Crimson Peak,Paranormal,Modern,,,FALSE,2015,,4,
+Crimson Peak,Paranormal,Modern,,,FALSE,2015,,4,4
 Cure ,Psychological,1990s,Asian,,FALSE,1997,,,
 Daddy's Head,Folk Horror,Modern,,,FALSE,2024,,,
 Dark Water,Supernatural,Modern,Asian,,FALSE,2002,,,
@@ -50,7 +51,7 @@ Elderly ,Posession,Modern,,,FALSE,2022,,,
 Else,Body Horror,Modern,,,FALSE,2024,,,
 Event Horizon,Aliens,1990s,,,TRUE,1997,,5,5
 Evil Dead,Body Horror,1980s,,,TRUE,1981,,5,5
-Evil Dead,Body Horror,Modern,,,FALSE,2013,,,
+Evil Dead,Body Horror,Modern,,,FALSE,2013,,,2
 Evil Dead II,Body Horror,1980s,,,TRUE,1987,,5,5
 Exhibit A,Found Footage,Modern,,,FALSE,2008,,,
 Exile,Aliens,Modern,,,FALSE,2014,,,
@@ -74,10 +75,10 @@ Halley,Body Horror,Modern,,,FALSE,2012,,,
 Halloween,Slasher,Classic,,,TRUE,1978,,5,5
 Harbinger,Paranormal,Modern,,,FALSE,2022,,5,
 Hellbender,Folk Horror,Modern,,,FALSE,2021,,3,
-Hellraiser,Body Horror,1980s,,,TRUE,1987,,5,5
+Hellraiser,Body Horror,1980s,,,TRUE,1987,,5,4
 Henry: Portrait of A Serial Killer,Serial Killer,1980s,,,TRUE,1986,,5,5
 Hereditary,Folk Horror,Modern,,,TRUE,2018,,5,5
-Heretic,Psychological,Modern,,,FALSE,2024,,2,2
+Heretic,Psychological,Modern,,,FALSE,2024,,2,2.5
 His House,Psychological,Modern,,,FALSE,2020,,3,
 Hounds of Love,Psychological,Modern,,,FALSE,2016,,,
 Huesera,Supernatural,Modern,,,FALSE,2022,,3,
@@ -87,9 +88,9 @@ I See You,Psychological,Modern,,,FALSE,2019,,1,
 Impetigore,Folk Horror,Modern,Asian,,FALSE,2019,,,
 In Flames,Psychological,Modern,,,FALSE,2023,,,
 Incantation,Supernatural,Modern,Asian,,FALSE,2022,,,
-Insidious,Posession,Modern,,,TRUE,2010,,5,5
+Insidious,Posession,Modern,,,TRUE,2010,,5,4
 Invasion of the Body Snatcher,Aliens,Classic,,,TRUE,1978,,5,5
-It,Other Monsters,Modern,,,FALSE,2017,,4,
+It,Other Monsters,Modern,,,FALSE,2017,,4,3
 It Comes at Night,Other Monsters,Modern,,,FALSE,2017,,3,
 It Follows,Paranormal,Modern,,,TRUE,2014,,4,5
 Jaws,Other Monsters,Classic,,,TRUE,1975,,5,5
@@ -122,11 +123,12 @@ Nothing Bad Can Happen,Slasher,Modern,,,FALSE,2013,,,
 Noturne,Psychological,Modern,,,FALSE,2020,,,
 Oculus,Posession,Modern,,,FALSE,2013,,4,
 Oddity,Paranormal,Modern,,,FALSE,2024,,4,3
-Pan's Labyrinth,Other Monsters,Modern,,,TRUE,2006,,5,
+Pan's Labyrinth,Other Monsters,Modern,,,TRUE,2006,,5,4
 Paranomal Activity,Paranormal,Modern,,,FALSE,2007,,4,
 Pearl,Slasher,Modern,,,FALSE,2022,,,
 Piercing,Psychological,Modern,,,FALSE,2018,,,
 Poltergeist,Paranormal,1980s,,,TRUE,1982,,5,5
+Possession,Psychological,1980s,,,,1981,,,5
 Possessor,Paranormal,Modern,,,FALSE,2020,,4,
 Possum,Psychological,Modern,,,FALSE,2018,,1,
 Prey,Aliens,Modern,,,FALSE,2022,,4,
@@ -153,7 +155,7 @@ Speak No Evil,,,,,FALSE,,,4,
 Stange Darling,Psychological,Modern,,,FALSE,,,4,
 Substance,Body Horror,Modern,,,FALSE,2024,,4,
 Surrender,,,,,FALSE,,,,
-Suspiria,,,,,FALSE,,,2,2.5
+Suspiria,,2018,,,FALSE,,,2,2.5
 Swallow,Psychological,Modern,,,FALSE,,,3,
 Swerve,,,,,FALSE,,,,
 Take Shelter,Psychological,Modern,,,FALSE,,,3,
@@ -170,7 +172,7 @@ The Canal,,,,,FALSE,,,,
 The Changling,Paranormal,Classic,,,TRUE,1980,,5,5
 The Coffee Table,,,,,FALSE,,,,
 The Conjuring,Paranormal,Modern,,,TRUE,2013,,5,5
-The Dark and the Wicked,Posession,Modern,,,TRUE,2020,,5,
+The Dark and the Wicked,Posession,Modern,,,TRUE,2020,,5,5
 The Descent,Other Monsters,Modern,,,TRUE,2005,,5,5
 The Devil's Bath,Folk Horror,Modern,,,FALSE,2024,,5,
 The Devils Candy,Slasher,Modern,,,FALSE,,,3,
@@ -179,7 +181,6 @@ The Endless,Paranormal,Modern,,,FALSE,2017,,4,
 The Evil Dead Rise,,,,,FALSE,,,3,
 The Exorcist,Posession,Classic,,,TRUE,1973,,5,5
 The Eyes of My Mother,Body Horror,Modern,,,FALSE,2016,,4,
-The Eyes of My Mother,,,,,FALSE,,,4,
 The Fabric,,,,,FALSE,,,,
 The First Omen,Posession,Modern,,,FALSE,,,4,
 The Fly,Body Horror,1980s,,,TRUE,1986,,5,5
@@ -187,9 +188,9 @@ The Forgotten Door,,,,,FALSE,,,,
 The Front Room,,,,,FALSE,,,,
 The Girl With the Needle,,,,,FALSE,,,,
 The Golden Glove,,,,,FALSE,,,,
-The Host,,,,,FALSE,,,4,3.5
+The Host,Other Monsters,Modern,Asian,,FALSE,,,4,3.5
 The House That Jack Built,,,,,FALSE,,,,
-The Howling,Werewolf,1980s,,,TRUE,1981,,5,5
+The Howling,Werewolf,1980s,,,TRUE,1981,,5,4
 The Innocents,,,,,FALSE,,,3,
 The Invisible Man,,,,,FALSE,,,3,
 The Invitation,Slasher,Modern,,,FALSE,2015,,4,
@@ -205,7 +206,7 @@ The Richteous,,,,,FALSE,,,,
 The Ring,Paranormal,Modern,,,TRUE,2002,,5,5
 The Rule of Jenny Pen,,,,,FALSE,,,,
 The Shining,Paranormal,Classic,,,TRUE,1980,,5,5
-The Sixth Sense,Paranormal,1990s,,,TRUE,1999,,5,
+The Sixth Sense,Paranormal,1990s,,,TRUE,1999,,5,3
 The Skin I Live In,,,,,FALSE,,,,
 The Substance,,,,,FALSE,,,3,
 The Taking of Deborah Logan,,,,,FALSE,,,2,
@@ -213,29 +214,29 @@ The Thing,Aliens,Classic,,,TRUE,1982,,5,5
 The Ugly Stepsister,,,,,FALSE,,,,
 The Untamed,,,,,FALSE,,,,
 The Visit,,,,,FALSE,,,3,
-The Wailing,Folk Horror,Asian,Asian,,FALSE,2016,,5,
+The Wailing,Folk Horror,Asian,Asian,,FALSE,2016,,5,4.5
 The Wait,,,,,FALSE,,,,
 The Witch,Folk Horror,Modern,,,TRUE,2015,,5,5
 The Wolfhouse,,,,,FALSE,,,,
 Thirst,,,,,FALSE,,,2,
 Three Extremes,,,,,FALSE,,,,
-Tigers are Not Afraid,Paranormal,Modern,Mexican,,FALSE,2017,,5,
+Tigers are Not Afraid,Paranormal,Modern,Mexican,,FALSE,2017,,5,3.5
 Titane,,,,,FALSE,,,,
 Together,,,,,FALSE,,,,
-Train to Busan,Zombie,Modern,,,TRUE,2016,,5,5
+Train to Busan,Zombie,Modern,Asian,,TRUE,2016,,5,5
 Transfiguration,,,,,FALSE,,,,
 Trick 'r Treat,Other Monsters,Modern,,,FALSE,2007,,4,
-Trucker and Dale vs Evil,Comedy,Modern,,,TRUE,2010,,5,5
+Trucker and Dale vs Evil,Comedy,Modern,,,TRUE,2010,,5,
 Under the Shadow,Psychological,Modern,,,FALSE,2016,,4,
 Under the Skin,Posession,Modern,,,FALSE,,,2,
 Us,Other Monsters,Modern,,,FALSE,2019,,4,4
 V/H/S,,,,,FALSE,,,,
 Vivarian,,,,,FALSE,,,,
 Watcher,,,,,FALSE,,,4,
-Weapons,Posession,Modern,,,FALSE,2025,,4,
+Weapons,Posession,Modern,,,FALSE,2025,,4,4.5
 What We Do In The Shadows,Comedy,Modern,,,TRUE,2014,,5,5
 What You Wish For,,,,,FALSE,,,,
-When Evil Lurks,Folk Horror,Modern,,,TRUE,2023,,5,5
+When Evil Lurks,Folk Horror,Modern,,,TRUE,2023,,5,4
 You Are Not My Mother,Folk Horror,Modern,Irish,,FALSE,2021,,3,
 You Won't Be Alone,Folk Horror,Modern,,,FALSE,2022,,4,
 You'll Never Find Me,Psychological,Modern,Asian,,FALSE,2023,,,
@@ -248,7 +249,7 @@ Obsession,Body Horror,Modern,North American,,,2026,,5,
 Starve Acre,Folk Horror,Modern,,,,2023,,3,
 The Wicker Man,Folk Horror,Modern,,,,1973,,4,
 The Ritual,Folk Horror,Modern,,,,2017,,3,
-Mandy,Cosmic Horror,Modern,North American,,,2018,,3,
+Mandy,Cosmic Horror,Modern,North American,,,2018,,3,4
 Keeper,Folk Horror,Modern,North American,,,2025,,,
 Saloum,Paranormal,Modern,African,,,2021,,3,
 The Medium,Paranormal,Modern,Asian,,,2021,,2,
